@@ -63,7 +63,7 @@ body{
         }
         .donate-section p{
            
-            color: black;
+            color: #9b7f7f;
             font-size: 22px;
             font-weight: 100 ;
             text-align: center;
@@ -116,7 +116,7 @@ body{
     }
     .donation-plan p{
        
-        color: black;
+        color: #9b7f7f;
         font-size: 30px;
         font-weight: 100 ;
         text-align: center;
@@ -145,7 +145,7 @@ body{
    }
 
    #plan-cat p{
-    color: black;
+    color: #9b7f7f;
     font-size: 18px;
     font-weight: 100;
     text-align: left;
@@ -153,7 +153,7 @@ body{
 }
     
 
-   }
+   
 
    #food{
     background-color: #e1e1ff;
@@ -166,3 +166,90 @@ body{
    #education{
     background-color: #e9928ea6;
    }
+
+   .email-sec{
+     
+    height: 669px;
+    width: 1440px;
+    
+  
+} 
+.email-sec h1 {
+    padding-top: 0px;
+color: black;
+font-size: 45px;
+text-align: center;
+    
+   
+}
+.email-sec p{
+   
+    color: #9b7f7f;
+    font-size: 30px;
+    font-weight: 100 ;
+    text-align: center;
+    
+}
+
+
+.email-sec span{
+    font-size: 30px;
+    border-radius: 5px;
+    font-weight: bolder;
+    background: #ff6464;
+    display: inline-block;
+ 
+    text-decoration: none;
+}
+
+#email-sub {
+
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    padding: 85px;
+    background-color: #f9be9c;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#email-sub form {
+
+    display: inline-flex;
+}
+
+
+#email-sub a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    padding: 25px;
+    font-weight: 300;
+    text-align: center;
+}
+
+#email-sub input{
+    border: none;
+    font-size: 18px;
+    padding: 12px 17px;
+    background: #ddd;
+    border-radius: 3px;
+}
+
+footer{
+    width: 100%;
+    height: 40px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 30px 0px;
+}
+
+footer p{
+    color:red;
+}
+
+footer a{
+    text-decoration: none;
+    color: #e1912e;
+}
