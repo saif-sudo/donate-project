@@ -99,3 +99,70 @@ body{
     color: #db1010;
        }
     
+       .donation-plan{
+     
+        height: 669px;
+        width: 1440px;
+        
+      
+} 
+    .donation-plan h1 {
+        padding-top: 0px;
+    color: black;
+    font-size: 45px;
+    text-align: center;
+        
+       
+    }
+    .donation-plan p{
+       
+        color: black;
+        font-size: 30px;
+        font-weight: 100 ;
+        text-align: center;
+        
+    }
+  
+
+   .donation-plan span{
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 22px 14px;
+    margin-left: 15px;
+    display: flex;
+    font-weight: bolder;
+    background: #f3f3f3;
+    display: inline-block;
+    width: 30%;
+   }
+
+   
+   #plan-cat{
+    display: flex;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 30px;
+   }
+
+   #plan-cat p{
+    color: black;
+    font-size: 18px;
+    font-weight: 100;
+    text-align: left;
+    margin-top: 30px;
+}
+    
+
+   }
+
+   #food{
+    background-color: #e1e1ff;
+   }
+
+   #shelter{
+    background-color: #ffe2fa;
+   }
+
+   #education{
+    background-color: #e9928ea6;
+   }
